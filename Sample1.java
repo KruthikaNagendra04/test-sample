@@ -1,0 +1,14 @@
+
+public class Sample1 {
+	
+	static String s = "         this is reply";
+	
+	
+	public static void main (String args[]) {
+		
+		System.out.println("s:"+s.trim());
+		
+	}
+	
+
+}
