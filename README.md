@@ -1,2 +1,2 @@
 # test-sample
-sample file
+sample file for git commands
