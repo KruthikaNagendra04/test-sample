@@ -1,7 +1,7 @@
 
 public class Sample1 {
 	
-	static String s = "         this is reply";
+	static String s = "this is reply";
 	String new = "Added Value";
 
 	
